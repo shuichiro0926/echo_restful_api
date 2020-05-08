@@ -1,4 +1,4 @@
-package db
+package entity
 
 type Todo struct {
 	ID       int
