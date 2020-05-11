@@ -1,5 +1,0 @@
-development:
-  db:
-    user: root
-    password: root
-    name: todo
